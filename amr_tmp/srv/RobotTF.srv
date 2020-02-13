@@ -1,0 +1,6 @@
+string goal_frame  # goal_frame relative to base_frame
+string base_frame 
+---
+float32[] trans
+float32[] quat
+
